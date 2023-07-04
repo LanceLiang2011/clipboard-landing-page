@@ -677,6 +677,10 @@ p {
   margin-top: 4rem;
 }
 
+.mt-32 {
+  margin-top: 8rem;
+}
+
 .flex {
   display: flex;
 }
